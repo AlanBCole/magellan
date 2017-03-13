@@ -1,0 +1,39 @@
+.old-style {
+  font-family: 'Miss Fajardose', cursive;
+  font-size: 10rem;
+  color: white;
+}
+
+.image {
+  padding-left: 10rem;
+  padding-top: 10rem;
+  width: 100%;
+  height: 66vh;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 2rem;
+}
+.seville {
+  background-image: url("http://www.spainthenandnow.com/userimages/Seville%20in%2016th%20C%20Sanchez%20Coello%20Wikimedia.jpg");
+}
+
+.canary-islands {
+  background-image: url("http://www.acadian-cajun.com/canary1758.jpg");
+}
+
+.cape-verde {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sanct_Jago,_auf_derselben_Insel_-_Caspar_Schmalkalden.jpg/600px-Sanct_Jago,_auf_derselben_Insel_-_Caspar_Schmalkalden.jpg");  margin-bottom: 2rem;
+}
+
+.straight-of-magellan {
+  background-image: url("https://libweb5.princeton.edu/visual_materials/maps/websites/pacific/magellan-strait/map-magellan-strait-pigafetta-thumb.jpg");
+  background-position: top;
+}
+
+.guam {
+  background-image: url("https://farm3.staticflickr.com/2426/3991099081_89ff60d43d_z.jpg?zz=1");
+}
+
+.phillipines {
+  background-image: url("https://www.raremaps.com/maps/large/48195.jpg");
+}
